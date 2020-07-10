@@ -1,4 +1,10 @@
-### Hi there 👋
+# Howzit, builders 🤙🏼
+
+I want to help build the future of Hawaiʻi and the world. Here's what I'm building now:
+
+- 🛠 Engineeing & UI/UX Design Intern at @PauboxHQ
+- 🐻 Computer Science + Entrepreneurship + Ethics at UC Berkeley '22
+- 🌍 Project lead writing code for social good with @CalBlueprint
 
 <!--
 **niwong/niwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
