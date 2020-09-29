@@ -1,12 +1,12 @@
 # Howzit, builders 🤙🏼
 
-I want to help build the future of Hawaiʻi and the world. Here's what I'm building now:
+I want to help build the future of Hawaiʻi and the world. Here's where I'm building now:
 
-- 🛠 Engineeing & UI/UX Design Intern at @PauboxHQ
-- 🐻 Computer Science + Entrepreneurship + Ethics at UC Berkeley '22
-- 🌍 Project lead writing code for social good with @CalBlueprint
+- 🛠 Engineeing & UI/UX Designer at [@PauboxHQ](https://twitter.com/PauboxHQ)
+- 🐻 Computer Science + Entrepreneurship + Ethics at UC Berkeley '2? Go Bears!
+- 🌍 Project lead writing code for social good with [@CalBlueprint](https://calblueprint.org/)
 
-My large codebase contributions tend to be on private repositories and projects, but feel free to find me on [Twitter](https://www.twitter.com/nickwongio) if you'd like to chat about my work. Until then, you can view my public repos documenting my web dev experimentation in high school.
+My larger codebase contributions tend to be on private repositories and projects, but feel free to find me on [Twitter](https://www.twitter.com/nickwongio) if you'd like to chat about my work. Until then, you can view my public repos documenting my web dev experimentation in high school.
 
 <!--
 **niwong/niwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
