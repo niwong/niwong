@@ -1,6 +1,6 @@
 # Howzit, builders 🤙🏼
 
-I'm an experienced Full-Stack Developer and User Interface Designer now transitioning into a product role at Paragon @useparagon. I'm an aspiring founder passionate about improving elderly care, leveraging entrepreneurship to uplift my local community, and increasing representation for native Hawaiians in technology.
+I'm an experienced Full-Stack Developer and User Interface Designer now transitioning into a product role at Paragon [@useparagon](https://useparagon.com). I'm an aspiring founder passionate about improving elderly care, leveraging entrepreneurship to uplift my local community, and increasing representation for native Hawaiians in technology.
 
 I want to help build the future of Hawaiʻi and the world. Here's what I've been building:
 
